@@ -15,7 +15,6 @@ Criando Projeto Website  e Projeto Console com .Net
 * Projeto Console
 
 
-c
 
 * Instalar e Abri o Visual Studio 2019.
 * Na janela inicial, selecione Clonar um repositório.
